@@ -38,9 +38,11 @@ More details about the data and evaluation plan will be released soon.
 
 ### Paper submission
 
-Papers submitted to the session should follow the regular Interspeech paper guidelines, [submission](https://www.interspeech2024.org/paper-submission/) and review process.  Accepted papers will appear in the main proceedings and the ISCA archive.  Be sure to list "URGENT Challenge: Universality, Robustness, and Generalizability for speech EnhancemeNT" as your paper subject area when making a submission. 
+Papers submitted to the session should follow the regular Interspeech paper guidelines, [submission](https://www.interspeech2024.org/paper-submission/) and review process.  <br> 
+Accepted papers will appear in the main proceedings and the ISCA archive.  <br>
+Be sure to list "URGENT Challenge: Universality, Robustness, and Generalizability for speech EnhancemeNT" as your paper subject area when making a submission. 
 
-Papers must be submitted by 2 March 2024, but updates are permitted up until 9 March 2024.
+**Papers must be submitted by 2 March 2024, but updates are permitted up until 9 March 2024. All dates are Anywhere over Earth (AoE)**
 
 ### Organizing team
 
