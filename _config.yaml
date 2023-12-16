@@ -1,7 +1,13 @@
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
 name: 'URGENT Challenge: Universality, Robustness, and Generalizability for speech EnhancemeNT'
+tagline: A Interspeech Special session challenge for universal, robust, and Generalizable speech enhancement.
 title: null
 description: 'URGENT Challenge: Universality, Robustness, and Generalizability for speech EnhancemeNT -- Interspeech Special session'
-logo: /favicon.svg
-image: /favicon.svg
+logo: /urgent.png
+image: /urgent.svg
+twitter:
+  username: WavLab
+  card: summary
+
