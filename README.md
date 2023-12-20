@@ -1,7 +1,7 @@
 <!-- <img alt="Can Stock Photo www.canstockphoto.com / coraMax.  Used with permission." src="favicon.svg" width="40%"/> -->
 
 # URGENT Challenge: Universality, Robustness, and Generalizability for speech EnhancemeNT
-## Special session at [Interspeech 2024](https://www.interspeech2024.org) 
+<!-- ## Special session at [Interspeech 2024](https://www.interspeech2024.org)  -->
 
 ### Background
 
