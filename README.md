@@ -46,17 +46,14 @@ Be sure to list "URGENT Challenge: Universality, Robustness, and Generalizabilit
 
 ### Organizing team
 
+> The current list is tentative and will be finalized later.
+
 * Wangyou Zhang, Shanghai Jiao Tong University, China
 * Robin Scheibler, LINE Corp., Japan
 * Samuele Cornell, Carnegie Mellon University, USA
 * Chenda Li, Shanghai Jiao Tong University, China
 * Kohei Saijo, Waseda University, Japan
 * Shinji Watanabe, Carnegie Mellon University, USA
-* Yanmin Qian, Shanghai Jiao Tong University, China
-* Zhong-Qiu Wang, Carnegie Mellon University, USA
-* Zhaoheng Ni, Meta, USA
-* Anurag Kumar, Meta, USA
-* Jonathan Le Roux, MERL, USA
 
 
 ### References
