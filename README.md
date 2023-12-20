@@ -54,7 +54,10 @@ Be sure to list "URGENT Challenge: Universality, Robustness, and Generalizabilit
 * Chenda Li, Shanghai Jiao Tong University, China
 * Kohei Saijo, Waseda University, Japan
 * Shinji Watanabe, Carnegie Mellon University, USA
+  
+### Contact
 
+For any further question drop an email to: [urgent.challenge@gmail.com](mailto:urgent.challenge@gmail.com)
 
 ### References
 
