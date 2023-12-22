@@ -3,6 +3,8 @@
 # URGENT Challenge: Universality, Robustness, and Generalizability for EnhancemeNT
 <!-- ## Special session at [Interspeech 2024](https://www.interspeech2024.org)  -->
 
+![Highlight](assets/images/highlight1.png)
+
 ### Background
 
 Recent decades have witnessed rapid development of deep learning-based speech enhancement (SE) techniques, with impressive performance in matched conditions. However, most conventional speech enhancement approaches focus only on a limited range of conditions, such as single-channel, multi-channel, anechoic, and so on.
