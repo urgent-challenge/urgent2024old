@@ -59,6 +59,7 @@ Be sure to list "URGENT Challenge: Universality, Robustness, and Generalizabilit
 
 > The current list is tentative and will be finalized later.
 
+**Core members**
 * Wangyou Zhang, Shanghai Jiao Tong University, China
 * Robin Scheibler, LINE Corp., Japan
 * Samuele Cornell, Carnegie Mellon University, USA
@@ -67,6 +68,13 @@ Be sure to list "URGENT Challenge: Universality, Robustness, and Generalizabilit
 * Shinji Watanabe, Carnegie Mellon University, USA
 * Tim Fingscheidt, Technische Universität Braunschweig, Germany
 * Zhaoheng Ni, Meta, USA
+
+**Advisory members**
+* Yanmin Qian, Shanghai Jiao Tong University, China
+* Zhong-Qiu Wang, Carnegie Mellon University, USA
+* Jonathan Le Roux, MERL, USA
+* Nicholas J. Bryan, Adobe, USA
+* Shoko Araki, NTT, Japan
 
 ### Contact
 
